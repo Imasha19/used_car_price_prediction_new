@@ -11,7 +11,6 @@ warnings.filterwarnings('ignore')
 # Page configuration
 st.set_page_config(
     page_title="AutoValue Pro - Car Price Predictor",
-
     layout="wide"
 )
 
@@ -247,10 +246,10 @@ st.markdown(f"""
 # Main container
 st.markdown('<div class="main-container">', unsafe_allow_html=True)
 
-# Title Container with Car Image Background
+# Title Container with Car Image Background - Car icon removed from title
 st.markdown("""
 <div class="title-container">
-    <h1 class="main-header">🚗 AutoValue Pro</h1>
+    <h1 class="main-header">AutoValue Pro</h1>
     <p class="sub-header">Smart Car Price Prediction Platform • AI-Powered Market Insights</p>
 </div>
 """, unsafe_allow_html=True)
