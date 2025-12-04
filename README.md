@@ -1,6 +1,6 @@
 🚗 Used Car Price Prediction
 
-A Machine Learning web application built with Python and Streamlit to predict the price of a used car based on key features like mileage, brand, year, fuel type, engine capacity, and more.
+     A Machine Learning web application built with Python and Streamlit to predict the price of a used car based on key features like mileage, brand, year, fuel type, engine capacity, and more.
 
 🔗 Live Demo
 
@@ -12,8 +12,8 @@ https://github.com/Imasha19/used_car_price_prediction_new
 
 📌 Project Overview
 
-This project aims to build an accurate ML model that predicts the selling price of a used car.
-It uses a supervised learning approach and analyzes various attributes such as:
+     This project aims to build an accurate ML model that predicts the selling price of a used car.
+     It uses a supervised learning approach and analyzes various attributes such as:
 
 Brand & Model
 
